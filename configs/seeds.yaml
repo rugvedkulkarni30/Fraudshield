@@ -1,0 +1,5 @@
+# Central configuration for reproducibility.
+# All scripts should read seeds/folds from here — never hardcode.
+random_seed: 42
+n_folds: 5
+n_seed_repeats: 5
