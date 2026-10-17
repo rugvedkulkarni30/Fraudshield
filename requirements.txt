@@ -9,3 +9,8 @@ jupyter
 lightgbm
 tensorflow
 scipy
+tldextract==5.4.0
+dnspython==2.9.0
+requests==2.34.2
+python-whois==0.9.6
+pytest==9.1.1

@@ -1,6 +1,7 @@
 # Raw and processed data (large / generated)
 data/raw/
 data/processed/
+data/cache/
 
 # Python bytecode
 __pycache__/
